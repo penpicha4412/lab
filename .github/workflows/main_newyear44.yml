@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'newyear44'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_13632433dcd64b0c9e56ab3967452e08 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0c80c279dfa548fba235c1b596cf3899 }}
